@@ -1,5 +1,5 @@
-# print("Starting my 90 days AI Engineer journey")
-# print("Day 1, Python fundamentals")
+print("Starting my 90 days AI Engineer journey")
+print("Day 1, Python fundamentals")
 
 # VARIABLES
 
