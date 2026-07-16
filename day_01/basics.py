@@ -40,8 +40,8 @@
 # print("your are", age, "years old")
 
 
-age = int(input("Enter your age: "))
+# age = int(input("Enter your age: "))
 
-future_age = age + 5
+# future_age = age + 5
 
-print("your age in future will", future_age)
+# print("your age in future will", future_age)

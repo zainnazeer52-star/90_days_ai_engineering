@@ -19,9 +19,9 @@ city = input("Enter your city: ")
 career_goal = input("Enter your career goal: ")
 
 introduction = (
-    f" My name is {name}."
-    f"I am {age} years old."
-    f"My goal is to become a {career_goal}."
+    f" My name is {name}. "
+    f"I am {age} years old. "
+    f"My goal is to become a {career_goal}. "
 )
 
 print(introduction)

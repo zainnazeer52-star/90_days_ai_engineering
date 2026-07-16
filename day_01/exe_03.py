@@ -1,6 +1,6 @@
 # Ask the user for their birth year and calculate their approximate age.
 
-user_birth_year = int(input(" Please Enter your birith year: "))
+user_birth_year = int(input(" Please Enter your birth year: "))
 
 current_year = 2026
 
