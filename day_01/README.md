@@ -9,3 +9,4 @@ Basic operators
 User input 
 Type conversion 
 Formatted strings
+Day 1 completed successfully.
